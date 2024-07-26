@@ -1,4 +1,4 @@
-# go-gin-swagge-crud
+# go-gin-swagger-crud
 
 
 ## 1. Build the Go Application
